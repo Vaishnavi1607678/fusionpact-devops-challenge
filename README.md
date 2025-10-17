@@ -44,6 +44,12 @@ The assignment is divided into <b>3 levels</b>. Complete all tasks in each level
 ---
 
 <h3 align="center">🥇 Level 1 – Cloud Deployment (30%)</h3>
+<img width="1920" height="1080" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/afb6c513-548e-4551-8c24-0645fd1236bc" />
+<img width="1920" height="1080" alt="Screenshot (618)" src="https://github.com/user-attachments/assets/dd243107-9ce0-4684-8334-03e5aa79cdb8" />
+<img width="1920" height="1080" alt="Screenshot (619)" src="https://github.com/user-attachments/assets/a7869681-bd5a-477d-84b3-e44782529c98" />
+<img width="1920" height="1080" alt="Screenshot (620)" src="https://github.com/user-attachments/assets/08799ee5-ca91-4e2d-ab52-19a7be10cfb6" />
+<img width="1920" height="1080" alt="Screenshot (620)" src="https://github.com/user-attachments/assets/df34561b-dcd2-4af1-bfe5-1094f29dcb9b" />
+
 
 **Objective:** Deploy the full stack on a cloud platform of your choice.
 
